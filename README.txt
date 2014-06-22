@@ -2,7 +2,6 @@
 //
 // JasonSSL (@JasonSSL)
 // jason.sslim@gmail.com
-// http://ssl-encrypted.blogspot.com
 //
 
 Usage: x_mac [-n] [-r]
